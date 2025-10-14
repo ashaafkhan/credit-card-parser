@@ -1,0 +1,52 @@
+[
+  {
+    "file": "HDFC_complex_statement.pdf",
+    "issuer": "HDFC Bank",
+    "last4": "3456",
+    "variant": "Statement",
+    "billing_cycle": "01 Sep 2025 - 30 Sep 2025",
+    "due_date": "15 Oct 2025",
+    "total_balance": "42,350.75",
+    "text_snippet": "HDFC Bank Credit Card Statement Card HDFC Regalia (XXXX-XXXX-XXXX-3456) Statement Date 01 Oct 2025 Statement Period 01 Sep 2025 - 30 Sep 2025 Payment Due Date 15 Oct 2025 Total Amount Due INR 42,350.75 Minimum Amount Due INR 1,500.00 Account Summary Description Amount Previous Balance INR -1,496,569.59 Payment Received (10-Sep-2025) -5,000.00 New Charges 1,533,920.34 Statement Balance 42,350.75 Detailed Transactions Date Type Description Debit (INR) Credit (INR) 01-Sep-2025 DEBIT ZOMATO 41,468.7"
+  },
+  {
+    "file": "SBI_complex_statement.pdf",
+    "issuer": "SBI Card",
+    "last4": "6789",
+    "variant": "Credit Card Statement",
+    "billing_cycle": "28 Aug 2025 - 27 Sep 2025",
+    "due_date": "18 Oct 2025",
+    "total_balance": "12,150.00",
+    "text_snippet": "SAMPLED SBI Card Credit Card Statement Card SBI Prime (XXXX-XXXX-XXXX-6789) Statement Date 28 Sep 2025 Statement Period 28 Aug 2025 - 27 Sep 2025 Payment Due Date 18 Oct 2025 Total Amount Due INR 12,150.00 Minimum Amount Due INR 1,215.00 Account Summary Description Amount Previous Balance INR -1,328,829.43 Payment Received (05-Sep-2025) -2,000.00 Payment Received (20-Sep-2025) -500.00 New Charges 1,338,479.43 Statement Balance 12,150.00 Detailed Transactions Date Type Description Debit (INR) Cre"
+  },
+  {
+    "file": "ICICI_complex_statement.pdf",
+    "issuer": "ICICI Bank",
+    "last4": "2345",
+    "variant": "Statement",
+    "billing_cycle": "01 Sep 2025 - 30 Sep 2025",
+    "due_date": "20 Oct 2025",
+    "total_balance": "89,999.50",
+    "text_snippet": "ICICI Bank Credit Card Statement Card ICICI Coral (XXXX-XXXX-XXXX-2345) Statement Date 02 Oct 2025 Statement Period 01 Sep 2025 - 30 Sep 2025 Payment Due Date 20 Oct 2025 Total Amount Due INR 89,999.50 Minimum Amount Due INR 4,500.00 Account Summary Description Amount Previous Balance INR -1,577,816.26 Payment Received (02-Sep-2025) -15,000.00 New Charges 1,652,815.76 Statement Balance 89,999.50 Detailed Transactions Date Type Description Debit (INR) Credit (INR) 03-Sep-2025 DEBIT RESTAURANT 124"
+  },
+  {
+    "file": "Axis_complex_statement.pdf",
+    "issuer": "Axis Bank",
+    "last4": "9876",
+    "variant": "Statement",
+    "billing_cycle": "05 Sep 2025 - 04 Oct 2025",
+    "due_date": "25 Oct 2025",
+    "total_balance": "5,250.00",
+    "text_snippet": "Axis Bank Credit Card Statement Card Axis Ace (XXXX-XXXX-XXXX-9876) Statement Date 05 Oct 2025 Statement Period 05 Sep 2025 - 04 Oct 2025 Payment Due Date 25 Oct 2025 Total Amount Due INR 5,250.00 Minimum Amount Due INR 500.00 Account Summary Description Amount Previous Balance INR -944,991.70 Payment Received (15-Sep-2025) -1,000.00 New Charges 949,241.70 Statement Balance 5,250.00 Detailed Transactions Date Type Description Debit (INR) Credit (INR) 06-Sep-2025 DEBIT NETFLIX 71,895.24 10-Sep-20"
+  },
+  {
+    "file": "Amex_complex_statement.pdf",
+    "issuer": "American Express",
+    "last4": "1122",
+    "variant": "Statement",
+    "billing_cycle": "01 Sep 2025 - 30 Sep 2025",
+    "due_date": "14 Oct 2025",
+    "total_balance": "152,300.00",
+    "text_snippet": "American Express Credit Card Statement Card American Express Platinum (Account ending 1122) Statement Date 01 Oct 2025 Statement Period 01 Sep 2025 - 30 Sep 2025 Payment Due Date 14 Oct 2025 Total Amount Due INR 152,300.00 Minimum Amount Due INR 5,000.00 Account Summary Description Amount Previous Balance INR -984,524.36 Payment Received (12-Sep-2025) -20,000.00 New Charges 1,116,824.36 Statement Balance 152,300.00 Detailed Transactions Date Type Description Debit (INR) Credit (INR) 01-Sep-2025 "
+  }
+]
