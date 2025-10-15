@@ -84,5 +84,4 @@ The application follows a multi-step process to ensure high accuracy across diff
 -   **Data Visualization:** Adding a dashboard to create charts and graphs based on spending categories from the extracted transactions.
 -   **Password-Protected PDFs:** Implementing a feature to allow users to input a password to parse encrypted statements.
 
----
 
