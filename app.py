@@ -29,7 +29,10 @@ with st.sidebar:
 
 # --- MAIN PAGE ---
 st.title("Credit Card Statement Parser 📄")
-st.write("Upload your statement to automatically extract key financial details.")
+st.info(
+    "**For a reliable demo, please use the sample statements from the project's [GitHub repository](https://github.com/ashaafkhan/credit-card-parser/tree/main/samples).**",
+    icon="💡"
+)
 
 # Display the initial view before a file is processed
 if 'extracted_data' not in st.session_state:

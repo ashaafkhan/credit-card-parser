@@ -84,4 +84,13 @@ The application follows a multi-step process to ensure high accuracy across diff
 -   **Data Visualization:** Adding a dashboard to create charts and graphs based on spending categories from the extracted transactions.
 -   **Password-Protected PDFs:** Implementing a feature to allow users to input a password to parse encrypted statements.
 
+---
+
+### 🧪 **Testing the Application**
+
+For the best experience and a guaranteed successful demonstration of the parsing capabilities, it is highly recommended to **use the sample statements provided within this repository**.
+
+You can find them in the `samples/` directory or download them directly from [this link](https://github.com/ashaafkhan/credit-card-parser/tree/main/samples). The parser has been specifically tailored and tested against these formats.
+
+---
 
